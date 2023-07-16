@@ -1,0 +1,19 @@
+# ignore template
+_TKAtemplate/*
+
+# ignore .app files
+rad.json
+launch.json
+*.app
+
+# ignore auto-generated xliff
+*/Translations/*.g.xlf
+
+# ignore AL Object Designer cache
+*/.vscode/.alcache/*
+*/.alcache/*
+*/.altemplates/*
+*/.altestrunner/*
+
+# CI/CD
+*/BuildOutput.txt
