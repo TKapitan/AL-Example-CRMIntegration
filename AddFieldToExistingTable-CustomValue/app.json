@@ -1,0 +1,47 @@
+{
+  "id": "e7940f60-e3f6-4bd8-b245-14f979925b41",
+  "name": "CRM Examples: Add Field with Custom Value",
+  "publisher": "Tomas 'Kepty' Kapitan",
+  "version": "1.0.0.0",
+  "brief": "CRM Integration Examples: Add Field to Existing Table with Custom Value Mapping",
+  "description": "CRM Integration Examples: Add Field to Existing Table with Custom Value Mapping",
+  "privacyStatement": "https://www.kepty.cz",
+  "EULA": "https://www.kepty.cz",
+  "help": "https://www.kepty.cz",
+  "contextSensitiveHelpUrl": "https://www.kepty.cz",
+  "url": "https://www.kepty.cz",
+  "logo": "",
+  "dependencies": [],
+  "internalsVisibleTo": [],
+  "screenshots": [],
+  "platform": "22.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50100
+    }
+  ],
+  "target": "Cloud",
+  "features": [
+    "TranslationFile",
+    "NoImplicitWith"
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "suppressWarnings": [
+    "AS0051",
+    "AS0081",
+    "AS0084",
+    "AS0092",
+    "PTE0012"
+  ],
+  "runtime": "11.0",
+  "preprocessorSymbols": [
+    "CLEAN21",
+    "CLEAN22"
+  ]
+}
